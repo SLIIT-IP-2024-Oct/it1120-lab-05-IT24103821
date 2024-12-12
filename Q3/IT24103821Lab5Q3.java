@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class IT24103821Lab5Q3 {
-    // Constants
+   
     private static final int ROOM_CHARGE_PER_DAY = 48000;
     private static final int DISCOUNT_3_TO_4_DAYS = 10;
     private static final int DISCOUNT_5_OR_MORE_DAYS = 20;
